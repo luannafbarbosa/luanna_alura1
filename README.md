@@ -1,1 +1,2 @@
-# luanna_alura1
+OLá, sou a Luana
+Estou participando do curso alura
